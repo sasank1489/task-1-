@@ -158,8 +158,8 @@ describe('GET /status', () => {
 ## 📬 Submission
 
 ✅ Task completed and submitted for **DevOps Internship – Task 1**  
-📅 Submission Date: *(Insert Date)*  
-🔗 GitHub Repository: *(Insert Your Repo URL)*
+📅 Submission Date: *(4-8-2025)*  
+🔗 GitHub Repository: *(https://github.com/sasank1489/task-1)*
 
 ---
 
