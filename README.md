@@ -117,8 +117,7 @@ To push the image to DockerHub, configure the following secrets in your GitHub r
 ## ✅ Sample Output
 
 ### 🖼 Workflow Success Screenshot
-
-<img width="947" height="382" alt="image" src="https://github.com/user-attachments/assets/01eca6fb-0bbb-43be-9cae-945cf417e557" />
+<img width="990" height="364" alt="image" src="https://github.com/user-attachments/assets/b17392f9-af37-4be6-8b27-b1eb8576cf85" />
 
 ---
 
@@ -152,7 +151,7 @@ describe('GET /status', () => {
 
 ## 📦 DockerHub Repository
 
-🔗 [hubrajupadidapu/elevate-task-1](https://hub.docker.com/layers/rajupadidapu/elevate-task-1)
+🔗 https://hub.docker.com/repository/docker/sasank1489/task1/general
 
 ---
 
@@ -166,8 +165,8 @@ describe('GET /status', () => {
 
 ## 🙋‍♂️ Author
 
-- **Name:** Your Name  
-- **GitHub:** [@raju200539](https://github.com/cicd-task)  
-- **Email:** venkatapathirajupadidapu@gmail.com
+- **Name:** sasank
+- **GitHub:** [@sasank1489](https://github.com/task-1)  
+- **Email:** sasank1489@gmail.com
 
 ---
