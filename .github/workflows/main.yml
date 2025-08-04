@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 env:
-  DOCKER_IMAGE: rajupadidapu/elevate-task-1
+  DOCKER_IMAGE: sasank1489/task1
   NODE_VERSION: '18'
 
 jobs:
